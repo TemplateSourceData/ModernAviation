@@ -1,4 +1,4 @@
-﻿Address ID,Address Label,Company Name,Address 1,Address 2,Address 3,City,State,Postal Code
+﻿AddressID,AddressLabel,CompanyName,Address1,Address2,Address3,City,State,PostalCode
 Any billing code needed,Modern Aviation CLT,Charlotte - KCLT,5400 Airport Drive,,,Charlotte,NC,28208
 ,Modern Aviation DSM,Des Moines - DSM,2700 McKinley Avenue,,,Des Moines,IA,50321-2806
 ,Modern Aviation APA,Englewood - APA,8207 InterPort Boulevard,,,Englewood,CO,80112
@@ -19,3 +19,4 @@ Any billing code needed,Modern Aviation CLT,Charlotte - KCLT,5400 Airport Drive,
 ,Modern Aviation BHB,Trenton - BHB,112 Caruso Drive,,,Trenton,ME,04605
 ,Modern Aviation FOK,Westhampton Beach - FOK,Francis S. Gabreski Airport,Building 308,,Westhampton Beach,NY,11978
 ,Modern Aviation ILM,Wilmington - ILM,1817 Aviation Drive,,,Wilmington,NC,28405
+
