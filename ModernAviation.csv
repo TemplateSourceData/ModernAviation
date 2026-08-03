@@ -1,23 +1,23 @@
-﻿AddressID,AddressLabel,CompanyName,Address1,Address2,Address3,City,State,PostalCode
-Any billing code needed,Modern Aviation CLT,Charlotte - KCLT,5400 Airport Drive,,,Charlotte,NC,28208
-,Modern Aviation DSM,Des Moines - DSM,2700 McKinley Avenue,,,Des Moines,IA,50321-2806
-,Modern Aviation APA,Englewood - APA,8207 InterPort Boulevard,,,Englewood,CO,80112
-,Modern Aviation FRG,Farmingdale - FRG,1100 New Highway,,,Farmingdale,NY,11735
-,Modern Aviation LGA,Flushing - LGA,1 Marine Air Terminal Road,Terminal A,,Flushing,NY,11371
-,Modern Aviation FTW,Ft. Worth - FTW,251 American Concourse,,,Ft. Worth,TX,76106
-,Modern Aviation GON,Groton - KGON,193 Tower Avenue,,,Groton,CT,06340
-,Modern Aviation MHR,Mather - MHR,10510 Superfortress Avenue,,,Mather,CA,95655
-,Modern Aviation CORP,Modern Aviation; Inc.,PO Box 9861,,,Amarillo,TX,79105
-,Modern Aviation JFK,New York - JFK,John F. Kennedy Int'l Airport,General Aviation Terminal,Building 145,Jamaica,NY,11430
-,Modern Aviation RUT,North Clarendon - RUT,1004 Airport Road,,,North Clarendon,VT,05759
-,Modern Aviation ISP,Ronkonkoma - ISP,90 Arrival Avenue,Suite 18,,Ronkonkoma,NY,11779
-,Modern Aviation SAC,Sacramento - SAC,6133 Freeport Boulevard,,,Sacramento,CA,95822
-,Modern Aviation SMF,Sacramento - SMF,5885 Flightline Circle,,,Sacramento,CA,95837
-,Modern Aviation SIG,San Juan - SIG,Isla Grande Airport Lot 10,Southside,,San Juan,PR,00907
-,Modern Aviation TJIG,San Juan - TJIG,Isla Grande Airport Lot 10,Southside,,San Juan,PR,00907
-,Modern Aviation BFI,Seattle - BFI,8285 Perimeter Road South,,,Seattle,WA,98108
-,Modern Aviation BHB,Trenton - BHB,112 Caruso Drive,,,Trenton,ME,04605
-,Modern Aviation FOK,Westhampton Beach - FOK,Francis S. Gabreski Airport,Building 308,,Westhampton Beach,NY,11978
-,Modern Aviation ILM,Wilmington - ILM,1817 Aviation Drive,,,Wilmington,NC,28405
-
-
+AddressID,AddressLabel,CompanyName,Address1,Address2,Address3,City,State,PostalCode,Frequency
+Any billing code needed,Modern Aviation CLT,Charlotte - KCLT,5400 Airport Drive,,,Charlotte,NC,28208,129.4
+,Modern Aviation DSM,Des Moines - KDSM,2700 McKinley Avenue,,,Des Moines,IA,50321,130.57
+,Modern Aviation APA,Denver - KAPA,8207 InterPort Boulevard,,,Englewood,CO,80112,129.625
+,Modern Aviation FRG - East ,Farmingdale - KFRG,1100 New Highway,,,Farmingdale,NY,11735,131.525
+,Modern Aviation FRG - West,Farmingdale - KFRG,7110 Republic Airport,,,Farmingdale,NY,11735,131.525
+,Modern Aviation FRG - North ,Farmingdale - KFRG,7160 Republic Airport,,,Farmingdale,NY,11735,131.525
+,Modern Aviation LGA,New York - KLGA,1 Marine Air Terminal Road,Terminal A,,Flushing,NY,11371,129.7
+,Modern Aviation FTW,Fort Worth - KFTW,251 American Concourse,,,Ft. Worth,TX,76106,128.95
+,Modern Aviation GON,Groton - KGON,193 Tower Avenue,,,Groton,CT,06340,129.725
+,Modern Aviation MHR,Mather - KMHR,10510 Superfortress Avenue,,,Mather,CA,95655,122.95
+,Modern Aviation CORP,"Modern Aviation, Inc.",PO Box 9861,,,Amarillo,TX,79105,
+,Modern Aviation JFK,New York - KJFK,John F. Kennedy Int'l Airport,General Aviation Terminal,Building 145,Jamaica,NY,11430,122.95
+,Modern Aviation RUT,Rutland - KRUT,1004 Airport Road,,,North Clarendon,VT,05759,129.72
+,Modern Aviation ISP,Ronkonkoma - KISP,90 Arrival Avenue,Suite 18,,Ronkonkoma,NY,11779,129.77
+,Modern Aviation SAC,Sacramento - KSAC,6133 Freeport Boulevard,,,Sacramento,CA,95822,122.95
+,Modern Aviation SMF,Sacramento - KSMF,5885 Flightline Circle,,,Sacramento,CA,95837,122.95
+,Modern Aviation TJRV,Ceiba - TJRV,Jose Aponte De La Torre Airport,Carr. 3 Antigua Base Naval,,Ceiba,PR,00735,129.35
+,Modern Aviation TJIG,San Juan - TJIG,Isla Grande Airport Lot 10,Southside,,San Juan,PR,00907,129.35
+,Modern Aviation BFI,Seattle - KBFI,8285 Perimeter Road South,,,Seattle,WA,98108,131.025
+,Modern Aviation BHB,Bar Harbor - KBHB,112 Caruso Drive,,,Trenton,ME,04605,131.4
+,Modern Aviation FOK,Westhampton Beach - KFOK,Francis S. Gabreski Airport,Building 308,,Westhampton Beach,NY,11978,130.2
+,Modern Aviation ILM,Wilmington - KILM,1817 Aviation Drive,,,Wilmington,NC,28405,130.4
