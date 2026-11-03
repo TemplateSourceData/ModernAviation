@@ -1,4 +1,4 @@
-AddressID,AddressLabel,CompanyName,Address1,Address2,Address3,City,State,PostalCode,Frequency
+AddressID,AddressLabel,CompanyName,Address1,Address2,Address3,City,State,PostalCode,Frequency,MainPh
 Any billing code needed,Modern Aviation CLT,Charlotte - KCLT,5400 Airport Drive,,,Charlotte,NC,28208,129.4
 ,Modern Aviation DSM,Des Moines - KDSM,2700 McKinley Avenue,,,Des Moines,IA,50321,130.57
 ,Modern Aviation APA,Denver - KAPA,8207 InterPort Boulevard,,,Englewood,CO,80112,129.625
